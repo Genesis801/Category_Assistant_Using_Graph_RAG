@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+langchain-community
+pandas
+numpy
+networkx
+faiss-cpu
+sentence-transformers
+python-dotenv
+tabulate
+tqdm
+scikit-learn
