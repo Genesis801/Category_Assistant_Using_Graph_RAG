@@ -1,4 +1,3 @@
-````markdown
 # 🛒 AI Shopping Agent using OpenAI
 
 An intelligent AI-powered shopping assistant that understands natural language queries and builds the **best possible shopping cart** based on product ratings, prices, categories, reviews, and user preferences.
@@ -424,4 +423,3 @@ Rather than acting as a simple search engine, the AI Shopping Agent becomes an i
 # License
 
 This project is intended for educational and research purposes. Product data belongs to their respective owners, and any trademarks, images, or links remain the property of their original sources.
-````
